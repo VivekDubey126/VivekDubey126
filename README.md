@@ -12,8 +12,8 @@
 <div align="center" style="max-width:820px;">
   <p>
     I design and build high-performance systems across web, AI, and real-time applications.
-    My work focuses on trading infrastructure, immersive 3D experiences, and scalable full-stack architectures.
-    Every product is engineered with precision, performance, and clean system design in mind.
+    My work spans trading infrastructure, immersive 3D systems, and machine learning pipelines.
+    Focused on performance, scalability, and clean system architecture.
   </p>
 </div>
 
@@ -72,6 +72,17 @@
 
 <br/><br/>
 
+<h3>Machine Learning & AI</h3>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=fff"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=fff"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff"/>
+<img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logo=xgboost&logoColor=fff"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=fff"/>
+
+<br/><br/>
+
 <h3>Tools & Infrastructure</h3>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=fff"/>
@@ -95,7 +106,7 @@
 
 <h3><a href="https://github.com/VivekDubey126">Synthetic-Bull</a></h3>
 <p>
-High-performance trading dashboard with real-time order books, advanced UI systems, and precision data visualization.
+High-performance trading dashboard with real-time data pipelines and advanced UI systems.
 </p>
 
 </td>
@@ -104,7 +115,7 @@ High-performance trading dashboard with real-time order books, advanced UI syste
 
 <h3><a href="https://github.com/VivekDubey126">SpaceEdu</a></h3>
 <p>
-3D scrollytelling engine with cinematic transitions, WebGL rendering, and immersive planetary environments.
+Immersive 3D scrollytelling system powered by WebGL and animation pipelines.
 </p>
 
 </td>
@@ -115,7 +126,7 @@ High-performance trading dashboard with real-time order books, advanced UI syste
 
 <h3><a href="https://github.com/VivekDubey126/youtubr_vid_downloade">YouTube Downloader</a></h3>
 <p>
-Robust full-stack video processing pipeline with optimized extraction and delivery systems.
+Scalable video processing pipeline with optimized extraction and encoding systems.
 </p>
 
 </td>
@@ -124,7 +135,7 @@ Robust full-stack video processing pipeline with optimized extraction and delive
 
 <h3><a href="https://github.com/VivekDubey126/AI-Course-Studio">AI Course Studio</a></h3>
 <p>
-Structured platform for designing and optimizing AI learning workflows and content pipelines.
+Machine learning workflow system for structured AI content creation and optimization.
 </p>
 
 </td>
@@ -174,6 +185,6 @@ Structured platform for designing and optimizing AI learning workflows and conte
 </div>
 
 <div align="center">
-  <code>print("Build systems. Not just projects.")</code>
+  <code>print("Build systems. Optimize everything.")</code>
 </div>
 
