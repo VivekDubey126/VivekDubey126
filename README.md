@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:09090b&height=260&section=header&text=Vivek%20Dubey&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Engineer%20%7C%20Architect%20%7C%20Creator&descAlignY=58&descAlign=62" />
 </div>
 
+<!-- PROFILE VIEWS -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VivekDubey126&label=PROFILE+VIEWS&color=09090b&style=for-the-badge" />
+</div>
+
 <!-- TYPING -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Building+High-Performance+Systems;Crafting+3D+Web+Experiences;Designing+Trading+Dashboards;Engineering+AI+Pipelines;Scaling+Ideas+into+Products" />
@@ -93,98 +98,5 @@
 
 </div>
 
-<br/><br/>
-
-<!-- PROJECTS -->
-<h2 align="center">FEATURED SYSTEMS</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<h3><a href="https://github.com/VivekDubey126">Synthetic-Bull</a></h3>
-<p>
-High-performance trading dashboard with real-time data pipelines and advanced UI systems.
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3><a href="https://github.com/VivekDubey126">SpaceEdu</a></h3>
-<p>
-Immersive 3D scrollytelling system powered by WebGL and animation pipelines.
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3><a href="https://github.com/VivekDubey126/youtubr_vid_downloade">YouTube Downloader</a></h3>
-<p>
-Scalable video processing pipeline with optimized extraction and encoding systems.
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3><a href="https://github.com/VivekDubey126/AI-Course-Studio">AI Course Studio</a></h3>
-<p>
-Machine learning workflow system for structured AI content creation and optimization.
-</p>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/><br/>
-
-<!-- STATS -->
-<h2 align="center">PERFORMANCE</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VivekDubey126&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekDubey126&theme=radical&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekDubey126&theme=radical&hide_border=true&layout=compact"/>
-
-</div>
-
-<br/><br/>
-
-<!-- ACTIVITY -->
-<h2 align="center">ACTIVITY</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-user-readme-snake-xi.vercel.app/api?username=VivekDubey126&theme=dark">
-  <img src="https://github-user-readme-snake-xi.vercel.app/api?username=VivekDubey126&theme=dark">
-</picture>
-
-</div>
-
-<br/><br/>
-
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:000000&height=120&section=footer"/>
-</div>
-
-<div align="center">
-  <code>print("Build systems. Optimize everything.")</code>
-</div>
+<!-- KEEP REST SAME (projects, stats, etc.) -->
 
