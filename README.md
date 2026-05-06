@@ -1,4 +1,3 @@
-@@ -1,14 +1,11 @@
 <!-- HERO -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:09090b&height=260&section=header&text=Vivek%20Dubey&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Engineer%20%7C%20Architect%20%7C%20Creator&descAlignY=58&descAlign=62" />
@@ -13,12 +12,14 @@
 <div align="center" style="max-width:820px;">
   <p>
     I design and build high-performance systems across web, AI, and real-time applications.
-@@ -17,9 +14,12 @@
+    My work spans trading infrastructure, immersive 3D systems, and machine learning pipelines.
+    Focused on performance, scalability, and clean system architecture.
   </p>
 </div>
 
+<!-- PROFILE VIEWS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VivekDubey126&label=Profile%20views&color=555555&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=VivekDubey126&label=Profile%20views&color=555555&style=flat" />
 </div>
 
 <br/>
@@ -27,15 +28,17 @@
 <div align="center">
 
 <a href="mailto:dubeprince024@gmail.com">
-@@ -36,16 +36,8 @@
+  <img src="https://img.shields.io/badge/EMAIL-dubeprince024%40gmail.com-0B0B0F?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000" />
+</a>
 
-</div>
+<a href="https://www.linkedin.com/in/vivek-dubey-175353307/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Vivek%20Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000" />
+</a>
 
-<br/>
+<a href="https://github.com/VivekDubey126">
+  <img src="https://img.shields.io/badge/GITHUB-Portfolio-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
 
-<!-- PROFILE VIEWS -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VivekDubey126&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 </div>
 
 <br/><br/>
@@ -44,7 +47,8 @@
 <h2 align="center">TECH STACK</h2>
 
 <div align="center">
-@@ -102,7 +94,6 @@
+  <!-- keep your existing stack here unchanged -->
+</div>
 
 <br/><br/>
 
@@ -52,7 +56,8 @@
 <h2 align="center">FEATURED SYSTEMS</h2>
 
 <div align="center">
-@@ -153,7 +144,6 @@ Machine learning workflow system for structured AI content creation and optimiza
+  <!-- your project table -->
+</div>
 
 <br/><br/>
 
@@ -60,7 +65,12 @@
 <h2 align="center">PERFORMANCE</h2>
 
 <div align="center">
-@@ -172,7 +162,6 @@ Machine learning workflow system for structured AI content creation and optimiza
+  <img src="https://github-readme-stats.vercel.app/api?username=VivekDubey126&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekDubey126&theme=radical&hide_border=true"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekDubey126&theme=radical&hide_border=true&layout=compact"/>
+</div>
 
 <br/><br/>
 
@@ -68,7 +78,11 @@
 <h2 align="center">ACTIVITY</h2>
 
 <div align="center">
-@@ -186,7 +175,6 @@ Machine learning workflow system for structured AI content creation and optimiza
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-user-readme-snake-xi.vercel.app/api?username=VivekDubey126&theme=dark">
+    <img src="https://github-user-readme-snake-xi.vercel.app/api?username=VivekDubey126&theme=dark">
+  </picture>
+</div>
 
 <br/><br/>
 
